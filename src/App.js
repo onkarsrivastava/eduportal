@@ -8,8 +8,8 @@ function App() {
 
   const courses = ["MCA", "CBB"];
   const subjects = {
-    MCA: ["Sub1", "Sub2"],
-    CBB: ["bin463m", "bin465m", "bin466f", "bin466m", "bin468f", "bin469f"],
+    MCA: ["MCA522", "mca505", "MCA601", "MCA521", "MCA534", "MCA501", "MCA519"],
+    CBB: ["bin463", "bin465", "bin466", "bin466", "bin468", "bin469"],
   };
 
   // Flattened subject list for search functionality
